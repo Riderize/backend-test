@@ -2,7 +2,7 @@
 
 Olá Dev! Tudo bem?
 
-Nesse desafio você construirá uma versão simples de marcação de pedais em grupo, quem sabe talvez isso não desperte seu interesse em fazer alguns pedais?
+Nesse desafio você construirá uma versão simples de combinar pedaladas em grupo, quem sabe talvez isso não desperte seu interesse em fazer alguns pedais?
 
 # Contexto do desafio
 
@@ -10,9 +10,7 @@ O objetivo desse desafio é criar uma API que irá possibilitar a criação de p
 
 Para tal será necessário:
 
-> Pedir um CRUD ou apenas a criação dos pedais?
-
-- Criar um CRUD dos pedais com os seguintes dados:
+- Criar os pedais com os seguintes dados:
 
 | Atributo                |  Tipo  | Nullable |
 | ----------------------- | :----: | -------: |
@@ -39,6 +37,7 @@ Para tal será necessário:
 # Requisitos
 
 - Deverá ser utilizado o NodeJS;
+- Utilizar o TypeScript;
 - A API deverá ser construída usando o GraphQL;
 - Os dados deverão persistir em algum DB, aqui no Riderize usamos o PostgreSQL para isso;
 - Todas as consultas deverão ser feitas usando o seguinte header de autenticação, para isso será necessário usar o JWT:
@@ -65,4 +64,8 @@ Não é obrigatório utilizar essas ferramentas, elas são apenas uma recomenda�
 
 # Avaliação
 
-Para que possamos avaliar o seu teste pedimos que envie o link do repositório que você criou para o email fabricio.sautner@riderize.com.
+Para que possamos avaliar o seu teste pedimos que envie o link do repositório que você criou para o email contato@riderize.com.
+
+# Dúvidas
+
+Para qualquer dúvida, pode ser aberta uma ISSUE neste repositório. 
