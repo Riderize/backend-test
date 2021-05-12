@@ -14,6 +14,7 @@ Para tal será necessário:
 
 | Atributo                |  Tipo  | Nullable |
 | ----------------------- | :----: | -------: |
+| id                      |    -   |    false |
 | name                    | string |    false |
 | start_date              |  Date  |    false |
 | start_date_registration |  Date  |    false |
@@ -33,6 +34,7 @@ Para tal será necessário:
 - Será preciso também listar os pedais que o usuário participou;
 - Listar também os pedais que o usuário criou;
 - Não permitir inscrição em pedais depois da última data de inscrição;
+- User_id vem de alguma tabela de usuário ao seu critério;
 
 # Requisitos
 
